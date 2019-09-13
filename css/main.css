@@ -1,8 +1,11 @@
+
+
 @import url(head.css);
 @import url(nav.css);
 *{
 	box-sizing: border-box;
 }
+
 
 
 body{
@@ -39,4 +42,11 @@ div .who{
 div .beats{
   font-weight: bold;
   font-size: 28px; 
+}
+
+
+div .zag{
+		text-decoration: none;
+
+
 }
