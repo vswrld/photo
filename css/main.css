@@ -1,0 +1,42 @@
+@import url(head.css);
+@import url(nav.css);
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #F2F2F2;
+
+}
+
+
+.border{
+	border-top: 6px solid;
+	margin-top: 35px;
+	margin-left: 155px;
+}
+
+
+.border p{
+	margin-top: 85px;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: helvetica;
+}
+
+
+div .who{
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	margin-left: 155px;
+	margin-top: 100px;
+}
+
+div .beats{
+  font-weight: bold;
+  font-size: 28px; 
+}
