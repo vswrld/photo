@@ -35,6 +35,16 @@ div .border p{
 }
 
 
+
+
+
+ @font-face {
+    font-family: gilroyextrabold; /* Имя шрифта */
+    src: url('10871-webfont.woff2');
+
+}
+
+
 div.naz{
 	margin-top: 10px;
 }
@@ -55,7 +65,7 @@ div .joy p{
 
 div .dude{
   font-size: 20px;
-  font-family: helvetica;
+  font-family: 'gilroyextrabold';
   font-weight: bold;
 }
 

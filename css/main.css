@@ -8,12 +8,15 @@
 
 
 
+
+
 body{
 	margin: 0;
 	padding: 0;
 	background-color: #F2F2F2;
 
 }
+
 
 
 .border{
@@ -29,6 +32,11 @@ body{
 	font-weight: bold;
 	font-family: helvetica;
 }
+
+
+							 @font-face {
+    						font-family: gilroyextrabold; 
+    						src: url('10871-webfont.woff2');
 
 
 div .who{
