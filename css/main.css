@@ -9,18 +9,18 @@
 
 
 
-
 body{
 	margin: 0;
 	padding: 0;
-	background-color: #F2F2F2;
+	background-color: #0d0500;
+;
 
 }
 
 
 
 .border{
-	border-top: 6px solid;
+	
 	margin-top: 35px;
 	margin-left: 155px;
 }
@@ -36,6 +36,7 @@ body{
 
 							 @font-face {
     						font-family: gilroyextrabold; 
+
     						src: url('10871-webfont.woff2');
 
 
@@ -56,5 +57,11 @@ div .beats{
 div .zag{
 		text-decoration: none;
 
+
+}
+
+div .rack {
+	opacity: 1;
+	vertical-align: right;
 
 }

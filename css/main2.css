@@ -9,13 +9,13 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: #F2F2F2;
+	background-color: #0d0500;
 
 }
 
 
 .border{
-	border-top: 6px solid;
+	
 	margin-top: 35px;
 	margin-left: 155px;
 }
@@ -28,6 +28,7 @@ div .border p{
 
 .border h1{
 	margin-top: 5px;
+
 	font-size: 35px;
 	font-weight: bold;
 	font-family: helvetica;
@@ -40,6 +41,7 @@ div .border p{
 
  @font-face {
     font-family: gilroyextrabold; /* Имя шрифта */
+    font-color: #ffe7d7;
     src: url('10871-webfont.woff2');
 
 }
@@ -56,7 +58,8 @@ div .joy p{
 	margin-top: 133px;
  	margin-left: 10px;
 	font-size: 20px;
-	border-bottom: 4px solid;
+	border-bottom: 4px solid ;
+
 	font-family: helvetica;
 	font-weight: bold;
 	font-style: italic;
@@ -65,7 +68,8 @@ div .joy p{
 
 div .dude{
   font-size: 20px;
-  font-family: 'gilroyextrabold';
+  font-family: 'helvetica';
+  font-color: #ffe7d7;
   font-weight: bold;
 }
 
@@ -89,3 +93,6 @@ div .zag{
 
 
 }
+div .rack{
+		opacity: 0.5;
+	}
